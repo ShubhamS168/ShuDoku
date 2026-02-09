@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShuDoku/static/css/main.e6c13ad2.css",
+    "main.js": "/ShuDoku/static/js/main.ef8fde42.js",
+    "static/js/453.0a6de3d1.chunk.js": "/ShuDoku/static/js/453.0a6de3d1.chunk.js",
+    "index.html": "/ShuDoku/index.html",
+    "main.e6c13ad2.css.map": "/ShuDoku/static/css/main.e6c13ad2.css.map",
+    "main.ef8fde42.js.map": "/ShuDoku/static/js/main.ef8fde42.js.map",
+    "453.0a6de3d1.chunk.js.map": "/ShuDoku/static/js/453.0a6de3d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef8fde42.js"
+  ]
+}
