@@ -280,7 +280,7 @@ const SudokuGame = () => {
           }}
         >
           <img
-            src="/ShuDokuLogo.png"
+            src={`${process.env.PUBLIC_URL}/ShuDokuLogo.png`}
             alt="ShuDoku logo"
             style={{
               width: '42px',
