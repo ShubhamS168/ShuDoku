@@ -625,7 +625,7 @@ const SudokuGame = () => {
             }}
           >
             <img
-              src="/githubLogo.webp"   // or GitHub / profile icon
+              src={`${process.env.PUBLIC_URL}/githubLogo.webp`} // or GitHub / profile icon
               alt="Shubham Sourav"
               style={{ width: '16px', height: '16px' }}
             />
